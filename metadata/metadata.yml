@@ -1,0 +1,9 @@
+metadata_version: 1
+name: CoBE_DESeq2 example
+description: |-
+  This is an example capsule for CoBE(https://www.pmcobe.ca) executable. The capsule is made using software, source code, and data coming from public sources and other authors. Please find the original links for code/data in the capsule description below:
+  Source of code: http://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html
+authors:
+- name: Parinaz Nasr Esfahani
+  affiliations:
+  - name: University Health Network

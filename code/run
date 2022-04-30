@@ -2,4 +2,6 @@
 set -ex
 
 # This is the master script for the capsule. When you click "Reproducible Run", the code in this file will execute.
+
+#This script, given an input matrix along with sample info, will calculate log-fold changes and raw/adjusted p-values for each gene. it will also provide a series of plots denoting LFC that are either in or out of the thresholds +- 0.5
 Rscript DESeq2_RNAseq.R "$@"
